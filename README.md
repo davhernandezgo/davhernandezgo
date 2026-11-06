@@ -106,6 +106,24 @@ I am a **Backend Software Engineer** specialized in designing and building scala
       </ul>
     </td>
   </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/davhernandezgo/agentic-canvas-svelte5">agentic-canvas-svelte5</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Svelte-5.1+-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+        <img src="https://img.shields.io/badge/Runes-$state_%7C_$derived-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-Agentic_DAG-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/SLM-WebGPU_Local-emerald?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
+      </p>
+      <p>Autonomous Multi-Agent Reasoning DAG Canvas powered by <strong>Svelte 5 Runes</strong> and in-browser <strong>Local SLM inference</strong>.</p>
+      <ul>
+        <li><strong>Svelte 5 Fine-Grained Reactivity</strong>: Zero Virtual DOM overhead with compiler-driven signals maintaining steady 60 FPS under token streaming.</li>
+        <li><strong>Hierarchical DAG Layout</strong>: Breadth-First Search topological layer positioning with dynamic Bezier spline connections.</li>
+        <li><strong>Autonomous Multi-Agent Loop</strong>: ReAct cycle with Architect, Scout, Engineer, Critic (formal invariants), and Chief Synthesizer.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
