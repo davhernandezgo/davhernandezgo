@@ -107,13 +107,12 @@ I am a **Backend Software Engineer** specialized in designing and building scala
     </td>
   </tr>
   <tr>
-    <td width="100%" colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">⚡ <a href="https://github.com/davhernandezgo/agentic-canvas-svelte5">agentic-canvas-svelte5</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Svelte-5.1+-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
         <img src="https://img.shields.io/badge/Runes-$state_%7C_$derived-purple?style=flat-square" />
         <img src="https://img.shields.io/badge/AI-Agentic_DAG-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/SLM-WebGPU_Local-emerald?style=flat-square" />
         <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
       </p>
       <p>Autonomous Multi-Agent Reasoning DAG Canvas powered by <strong>Svelte 5 Runes</strong> and in-browser <strong>Local SLM inference</strong>.</p>
@@ -121,6 +120,21 @@ I am a **Backend Software Engineer** specialized in designing and building scala
         <li><strong>Svelte 5 Fine-Grained Reactivity</strong>: Zero Virtual DOM overhead with compiler-driven signals maintaining steady 60 FPS under token streaming.</li>
         <li><strong>Hierarchical DAG Layout</strong>: Breadth-First Search topological layer positioning with dynamic Bezier spline connections.</li>
         <li><strong>Autonomous Multi-Agent Loop</strong>: ReAct cycle with Architect, Scout, Engineer, Critic (formal invariants), and Chief Synthesizer.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏝️ <a href="https://github.com/davhernandezgo/astro5-server-islands-edge-agents">astro5-server-islands-edge-agents</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Astro-5.4+-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+        <img src="https://img.shields.io/badge/Server_Islands-server%3Adefer-FF5D01?style=flat-square" />
+        <img src="https://img.shields.io/badge/Edge-SSE_Stream-cyan?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
+      </p>
+      <p>Real-Time Autonomous Edge AI Agent Hub powered by <strong>Astro 5 Server Islands</strong>, edge streaming, and Clean Architecture.</p>
+      <ul>
+        <li><strong>Server Islands Deferral</strong>: Instant 0ms TTFB from CDN edge cache with parallel, non-blocking on-demand component resolution.</li>
+        <li><strong>Aegis Threat Sentinel</strong>: Real-time Shannon token entropy calculation (H(X)) for sub-2ms prompt injection defense.</li>
+        <li><strong>Hyperion Model Router</strong>: Multi-objective Pareto routing dynamically selecting between in-process Edge SLMs and Cloud Deep Reasoning LLMs.</li>
       </ul>
     </td>
   </tr>
